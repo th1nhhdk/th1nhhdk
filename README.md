@@ -11,27 +11,25 @@
 - <a href="https://gitlab.com/VNux">VNux</a>
 
 ### Ngôn ngữ chính:
-- C
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
 ### IDE chính:
-- Neovim
+- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 
 ### Hệ Điều Hành chính:
-![Linux](https://img.shields.io/badge/Arch%20Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ### Ngôn ngữ khác:
-- C++
-- Pascal
-- Python
-- html
-- markdown
-- Shell(bash)
-- C#
-- batch(Windows)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## Nơi liên lạc:
-- Discord: <code>notth1nhhdk#8081</code>
+- ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) <code>notth1nhhdk#8081</code>
 - Email: <code>th1nhhdk@tutanota.com</code>
 
 ## Donate đê bạn, nghèo lắm <code>:V</code>:
