@@ -16,6 +16,10 @@
 ### IDE chính:
 - Neovim
 
+### Hệ Điều Hành chính:
+![Linux](https://img.shields.io/badge/Arch%20Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
 ### Ngôn ngữ khác:
 - C++
 - Pascal
