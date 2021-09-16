@@ -1,4 +1,4 @@
-<p align="center"><img src="images/th1nhhdk.svg" width="200" height="200" alt="th1nhhdk.svg"></p>
+<p align="center"><img src="images/th1nhhdk.svg" width="100" height="100" alt="th1nhhdk.svg"></p>
 <p align="center">th1nhhdk</p>
 <p align="center"><code>(phát âm: thịnh hát đê ka)</code></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=th1nhhdk&label=Lượt+xem+profile:" alt="luotxemprofile"></p>
