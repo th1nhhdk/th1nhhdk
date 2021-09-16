@@ -36,3 +36,7 @@
 
 ## Donate đê bạn, nghèo lắm <code>:V</code>:
 - Ethereum: <code>0xCb3E139e3b1cAdEfdfc268E064b00D26EDE408BB</code>
+- Bitcoin:
+- SegWit native (Bech32): <code>bc1q8fpzumk50x4vaw7c88wkhj0mt2a6vj2khhegx6</code>
+- SegWit compatible (P2SH): <code>3Ley29dZ8YYxZYQW5sJGLt3aBeZCertACC</code>
+- Legacy (P2PKH): <code>1Am6sjeWqVwNQxwb1qgaeSGVAkBNQgrYEn</code>
