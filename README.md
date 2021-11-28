@@ -10,7 +10,7 @@
 - <a href="https://kodelang.dev">Kode</a>
 
 ### Dự án chính:
-- <a href="https://gitlab.com/VNux">VNux GNU/Linux</a>
+
 
 ### IDE chính:
 - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
@@ -28,7 +28,7 @@
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ## Liên lạc:
-- Discord: <code>notth1nhhdk#8081</code>
+- Discord: <code>th1nhhdk#6120</code>
 - Email: <code>th1nhhdk@tutanota.com</code>
 
 ## Donate đê bạn, nghèo lắm <code>:V</code>:
