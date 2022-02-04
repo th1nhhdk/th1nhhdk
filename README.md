@@ -10,7 +10,7 @@
 - <a href="https://kodelang.dev">Kode</a>
 
 ### Dự án chính:
-- <a href="https://vnuxlinux.pages.dev/">VNux GNU/Linux</a>
+- ViệtTíx GNU/Linux
 
 ### IDE chính:
 - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
