@@ -10,7 +10,7 @@
 - <a href="https://kodelang.dev">Kode</a>
 
 ### Dự án chính:
-- ViệtTíx GNU/Linux
+- VietTix(ViệtTíx) GNU/Linux
 
 ### IDE chính:
 - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
@@ -32,8 +32,4 @@
 - Email: <code>th1nhhdk@tutanota.com</code>
 
 ## Donate đê bạn, nghèo lắm <code>:V</code>:
-- Ethereum: <code>0xCb3E139e3b1cAdEfdfc268E064b00D26EDE408BB</code>
-- Bitcoin:
-- SegWit native (Bech32): <code>bc1q8fpzumk50x4vaw7c88wkhj0mt2a6vj2khhegx6</code>
-- SegWit compatible (P2SH): <code>3Ley29dZ8YYxZYQW5sJGLt3aBeZCertACC</code>
-- Legacy (P2PKH): <code>1Am6sjeWqVwNQxwb1qgaeSGVAkBNQgrYEn</code>
+- Monero: <code>49wa5UaMtfXG5txjLd2x7JiEamzwW3ackAP58tZQfv611nL5HtEN22CK1ssvr2EZ8CXNZJmuhLMBng32p9LGCbp9S3i9T3H</code>
