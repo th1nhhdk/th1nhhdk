@@ -10,7 +10,7 @@
 - <a href="https://kodelang.dev">Kode</a>
 
 ### Dự án chính:
-- VietTix(ViệtTíx) GNU/Linux
+- [ViệtTíx Linux](https://github.com/viettixlinux)
 
 ### IDE chính:
 - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
